@@ -1,0 +1,10 @@
+name = "OptimNewton"
+uuid = "12f4a825-3f68-57df-974a-4fcd3632ede1"
+authors = ["Jose Antonio Pereiro Morejon <jose.pereiro.lab@gmail.com>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
